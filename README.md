@@ -11,10 +11,10 @@ Here, you are available to look up for my results on hw01-10, lab01-12, project1
 ## homework
 ## lab
 ## project
-HOG:Dice game implementation (Python)
-CATS:Computer Aided Typing Software (Python)
-ANTS:Ants vs Bees--Super fun game! (Python)
-SCHEME:Scheme interpreter (built with Python)
+### HOG:Dice game implementation (Python)
+### CATS:Computer Aided Typing Software (Python)
+### ANTS:Ants vs Bees--Super fun game! (Python)
+### SCHEME:Scheme interpreter (built with Python)
 # Supplementary Notes
 These files include the CS61A Official Website Solutions and some other ways of mine that can perfectly pass the ok test.
 Hope these code can help you with studying 2024fall cs61a courses:D
