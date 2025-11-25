@@ -1,11 +1,11 @@
 # cs61a-homework-labs-projects-2024fall
 This repository contains all my results for the CS61A 2024 Fall course at UC Berkeley. It includes: - Homework Lab and Project files. note: All materials are for educational purposes only. Sharing solutions without permission may violate academic integrity policies. 
 # About the Course
-Course Name: CS61A: Structure and Interpretation of Computer Programs
-Learning Period of Mine: Sept18/2025 -- Nov24/2025
-Official Website: cs61a.org
-Core Languages: Python, Scheme, SQL
-Prerequisites: Basic programming fundamentals 
+### Course Name: CS61A: Structure and Interpretation of Computer Programs
+### Learning Period of Mine: Sept18/2025 -- Nov24/2025
+### Official Website: cs61a.org
+### Core Languages: Python, Scheme, SQL
+### Prerequisites: Basic programming fundamentals 
 # Repository Structure of 2024fall cs61a myresults
 Here, you are available to look up for my results on hw01-10, lab01-12, project1-4 hog,cats,ants,scheme.
 ## homework
